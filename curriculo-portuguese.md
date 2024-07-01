@@ -64,16 +64,16 @@ GitHub
 
 
 ## Formação acadêmica 
-**Universidade:** Centro Universitário – UNIFATECIE
-**Curso:** Analise De Desenvolvimento De Sistemas
-**Previsão de conclusão** 06/2025
-**Cidade** Rio De Janeiro
+**Universidade:** Centro Universitário – UNIFATECIE <br>
+**Curso:** Analise De Desenvolvimento De Sistemas <br>
+**Previsão de conclusão** 06/2025 <br>
+**Cidade** EAD <br>
 
 ##
-**Universidade:** Universidade Paulista - UNIP
-**Curso:** Ciência da computação
-**Conclusão** 12/2018
-**Cidade** São José do Rio Preto
+**Universidade:** Universidade Paulista - UNIP <br>
+**Curso:** Ciência da computação <br>
+**Conclusão** 12/2018 <br>
+**Cidade** São José do Rio Preto <br>
 
 ## Cursos
 **Danki Code:** Inglês:
