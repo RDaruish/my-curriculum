@@ -43,7 +43,7 @@ GitHub
 **Descrição:** Experiência abrangente em análise de logs via XML e JSON, desenvolvimento avançado de queries em PL/SQL para Oracle, e manutenção de documentação técnica essencial para operações contínuas e desenvolvimento do sistema. Proficiente em atendimento de chamados via JIRA, suporte ágil à equipe de desenvolvimento durante incidentes, e teste meticuloso com SoapUI para garantir a robustez do ambiente. Habilidade com consultas complexas em MongoDB, criação de indicadores de performance, e resolução eficiente de erros em ambientes produtivos e não produtivos. Capacidade comprovada na geração de relatórios detalhados diretamente na base de dados SQL Server.<br>
 **Data de início:** 02/2022 | **Data de término:** **Atualmente** 
 
-## ---
+## 
 **Cargo:** Desenvolvedor Full Stack <br>
 **Tipo de Emprego** Freelancer <br>
 **Empresa:** Gool Hub<br>
@@ -52,7 +52,7 @@ GitHub
 **Data de início:** 05/2024 | **Data de término:** **Atualmente**
 
 
-## ---
+##
 **Cargo:** Desenvolvedor Full Stack <br>
 **Tipo de Emprego** Freelancer <br>
 **Empresa:** DropMaxi Distribuidora <br>
@@ -69,7 +69,7 @@ GitHub
 **Previsão de conclusão** 06/2025
 **Cidade** Rio De Janeiro
 
-## ---
+##
 **Universidade:** Universidade Paulista - UNIP
 **Curso:** Ciência da computação
 **Conclusão** 12/2018
@@ -80,55 +80,55 @@ GitHub
  * Ingles para programadores
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Danki Code:** PHP:
  * Curso de PHP Jedai
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Danki Code:** Logica de programação:
  * Logica de programação
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Danki Code:** Produtividade para programadores:
  * Produtividade para programadores
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Danki Code:** Infraestrutura web:
  * Infraestrutura web
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Danki Code:** Desenvolvimento de Aplicativos:
  * Desenvolvimento de Aplicativos
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Danki Code:** JavaScript:
  * JavaScript
  * Site: https://cursos.dankicode.com/
    
- ## ---
+ ##
 
  **Danki Code:** NodeJS:
  * NodeJS
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Danki Code:** Java Web:
  * Java Web
  * Site: https://cursos.dankicode.com/
 
- ## ---
+ ##
 
  **Udemy:** SQL:
  * Curso completo de SQL
