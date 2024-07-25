@@ -37,7 +37,6 @@ GitHub
 
 ## Histórico Profissional
 **Cargo:** Analista de Suporte <br>
-**Tipo de Emprego** Tercerizado <br>
 **Empresa:** CVC Corp <br>
 **Localidade:** Santo André, São Paulo, Brasil <br>
 **Descrição:** Experiência abrangente em análise de logs via XML e JSON, desenvolvimento avançado de queries em PL/SQL para Oracle, e manutenção de documentação técnica essencial para operações contínuas e desenvolvimento do sistema. Proficiente em atendimento de chamados via JIRA, suporte ágil à equipe de desenvolvimento durante incidentes, e teste meticuloso com SoapUI para garantir a robustez do ambiente. Habilidade com consultas complexas em MongoDB, criação de indicadores de performance, e resolução eficiente de erros em ambientes produtivos e não produtivos. Capacidade comprovada na geração de relatórios detalhados diretamente na base de dados SQL Server.<br>
@@ -45,7 +44,6 @@ GitHub
 
 ## 
 **Cargo:** Desenvolvedor Full Stack <br>
-**Tipo de Emprego** Freelancer <br>
 **Empresa:** Gool Hub<br>
 **Localidade:** Rio de Janeiro <br>
 **Descrição:** Responsável por implementar novas funcionalidades e corrigir bugs para assegurar a estabilidade do sistema, trabalhei em estreita colaboração com a equipe de suporte para resolver questões de forma eficiente, elevando a experiência do usuário. Para assim resultar em um sistema mais eficiente, contribuindo diretamente para aumentar a satisfação dos usuários. <br>
@@ -54,7 +52,6 @@ GitHub
 
 ##
 **Cargo:** Desenvolvedor Full Stack <br>
-**Tipo de Emprego** Freelancer <br>
 **Empresa:** DropMaxi Distribuidora <br>
 **Localidade:** Centro comercial em São Paulo <br>
 **Descrição:** Responsável pelo desenvolvimento do sistema completo da empresa utilizando PHP puro, atendendo à preferência do proprietário por uma abordagem sem frameworks. Durante o desenvolvimento, integrei com sucesso diversas plataformas e serviços chave, como Shopee, Shopify, Mercado Livre, Mercado Pago, Yampi, Asaas e a API do WhatsApp. Além de implementar novas funcionalidades e corrigir bugs para assegurar a estabilidade do sistema, trabalhei em estreita colaboração com a equipe de suporte para resolver questões de forma eficiente, elevando a experiência do usuário. Minhas melhorias na performance resultaram em um sistema mais eficiente, contribuindo diretamente para aumentar a satisfação dos usuários. <br>
