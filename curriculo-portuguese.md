@@ -1,15 +1,16 @@
 <h1 align="center">Rafael Daruish Bueno</h1>
 <h4 align="center">Full Stack Developer</h4>
 
-###### Sou um entusiasta de tecnologia, habilidoso em desenvolvimento de sistemas e front-end. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, anteriormente cursei uma parte de Ciência da Computação.
+###### Sou um desenvolvedor de tecnologia apaixonado e especializado em desenvolvimento de sistemas,
+###### com um forte foco em PHP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e
+###### tenho um background em Ciência da Computação. Estou sempre em busca de novas oportunidades
+###### para aprimorar minhas habilidades, praticando análise de sistemas e aplicando as melhores práticas de
+###### programação.
 
-###### Tenho experiência na implementação de um sistema completo de dropshipping, que facilita o gerenciamento de produtos e vendas para os clientes. Além disso, possuo conhecimentos em identificação e antecipação de problemas de desempenho em bancos de dados, gestão de chamados e desenvolvimento de soluções para problemas e melhorias de sistemas. Minhas habilidades técnicas incluem PL/SQL Oracle, MongoDB, PHP, JavaScript, C#, Java, Python e Git.
-
-###### Sempre busco aperfeiçoamento e praticando análise de sistemas, com as melhores práticas de programação.
-
-###### Investi continuamente na minha educação, realizando bootcamps e cursos em Danki Code, Alura, Udemy entre outras plataformas de renome, com certificações nestas empresas e aprofundamento do conhecimento em determinadas áreas.
-
-###### Procuro oportunidades para trabalhar em equipe, contribuir com meus conhecimentos e me esforçar ao máximo para atingir os objetivos da empresa.
+###### Tenho investido continuamente em minha educação, participando de bootcamps e cursos em
+###### plataformas renomadas, onde obtive diversas certificações e aprofundei meu conhecimento em áreas
+###### específicas. Procuro oportunidades para colaborar em equipe, compartilhar meus conhecimentos e
+###### contribuir para o sucesso da empresa.
 <br>
 
 ## Contato
