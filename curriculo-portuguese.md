@@ -1,16 +1,17 @@
 <h1 align="center">Rafael Daruish Bueno</h1>
 <h4 align="center">Full Stack Developer</h4>
 
-###### Sou um desenvolvedor de tecnologia apaixonado e especializado em desenvolvimento de sistemas,
-###### com um forte foco em PHP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e
-###### tenho um background em Ciência da Computação. Estou sempre em busca de novas oportunidades
-###### para aprimorar minhas habilidades, praticando análise de sistemas e aplicando as melhores práticas de
-###### programação.
+##### Sou um desenvolvedor de tecnologia apaixonado e especializado em desenvolvimento de sistemas,  
+com um forte foco em PHP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e  
+tenho um background em Ciência da Computação. Estou sempre em busca de novas oportunidades  
+para aprimorar minhas habilidades, praticando análise de sistemas e aplicando as melhores práticas de  
+programação.
 
-###### Tenho investido continuamente em minha educação, participando de bootcamps e cursos em
-###### plataformas renomadas, onde obtive diversas certificações e aprofundei meu conhecimento em áreas
-###### específicas. Procuro oportunidades para colaborar em equipe, compartilhar meus conhecimentos e
-###### contribuir para o sucesso da empresa.
+##### Tenho investido continuamente em minha educação, participando de bootcamps e cursos em  
+plataformas renomadas, onde obtive diversas certificações e aprofundei meu conhecimento em áreas  
+específicas. Procuro oportunidades para colaborar em equipe, compartilhar meus conhecimentos e  
+contribuir para o sucesso da empresa.
+
 <br>
 
 ## Contato
