@@ -16,14 +16,14 @@
 
 <br>
 
-## Languages
+## Idiomas
 Portugues **(Nativo)** |
 Inglês **(Intermediário)** | 
 Espanhol **(Intermediário)**
 
 <br>
 
-## Skills
+## Habilidades
 Javascript |
 Java | 
 MySQL | 
