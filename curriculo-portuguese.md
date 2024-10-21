@@ -48,14 +48,14 @@ GitHub
 **Empresa:** CVC Corp <br>
 **Localidade:** Santo André, São Paulo, Brasil <br>
 **Descrição:** Experiência abrangente em análise de logs via XML e JSON, desenvolvimento avançado de queries em PL/SQL para Oracle, e manutenção de documentação técnica essencial para operações contínuas e desenvolvimento do sistema. Proficiente em atendimento de chamados via JIRA, suporte ágil à equipe de desenvolvimento durante incidentes, e teste meticuloso com SoapUI para garantir a robustez do ambiente. Habilidade com consultas complexas em MongoDB, criação de indicadores de performance, e resolução eficiente de erros em ambientes produtivos e não produtivos. Capacidade comprovada na geração de relatórios detalhados diretamente na base de dados SQL Server.<br>
-**Data de início:** 02/2022 | **Data de término:** **Atualmente** 
+**Data de início:** 02/2022 | **Data de término:** 08/2024 
 
 ## 
 **Cargo:** Desenvolvedor Full Stack <br>
 **Empresa:** Gool Hub<br>
 **Localidade:** Rio de Janeiro <br>
 **Descrição:** Responsável por implementar novas funcionalidades e corrigir bugs para assegurar a estabilidade do sistema, trabalhei em estreita colaboração com a equipe de suporte para resolver questões de forma eficiente, elevando a experiência do usuário. Para assim resultar em um sistema mais eficiente, contribuindo diretamente para aumentar a satisfação dos usuários. <br>
-**Data de início:** 05/2024 | **Data de término:** **Atualmente**
+**Data de início:** 05/2024 | **Data de término:** 08/2024
 
 
 ##
