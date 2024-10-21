@@ -43,14 +43,14 @@ GitHub
 **Empresa:** CVC Corp <br>
 **Localidade:** Santo André, São Paulo, Brasil <br>
 **Resumo:** 
-    • Experiência em análise de logs utilizando XML e JSON.
-    • Desenvolvimento avançado de queries em PL/SQL Oracle.
-    • Atendimento de chamados via JIRA e suporte ágil à equipe de desenvolvimento durante
-    incidentes.
-    • Teste do ambiente com SoapUI.
-    • Consultas complexas em MongoDB.
-    • Analise para a resolução de erros em ambientes produtivos.
-    • Geração de relatórios detalhados diretamente na base de dados PL/SQL.
+- Experiência em análise de logs utilizando XML e JSON.
+- Desenvolvimento avançado de queries em PL/SQL Oracle.
+- Atendimento de chamados via JIRA e suporte ágil à equipe de desenvolvimento durante
+incidentes.
+- Teste do ambiente com SoapUI.
+- Consultas complexas em MongoDB.
+- Analise para a resolução de erros em ambientes produtivos.
+- Geração de relatórios detalhados diretamente na base de dados PL/SQL.
 <br>
 **Data de início:** 02/2022 | **Data de término:** 08/2024 
 
@@ -59,11 +59,11 @@ GitHub
 **Empresa:** Gool Hub<br>
 **Localidade:** Rio de Janeiro <br>
 **Resumo:**
-    • Implementação de novas funcionalidades para o sistema.
-    • Correção de bugs, garantindo um sistema mais eficiente.
-    • Colaboração estreita com a equipe de suporte para resolver questões de forma eficiente.
-    • Contribuição direta para aumentar a satisfação dos usuários.• Elevação da experiência do usuário através de melhorias contínuas no sistema.
-    • Sugestão de novas implementações e melhorias para o sistema.
+- Implementação de novas funcionalidades para o sistema.
+- Correção de bugs, garantindo um sistema mais eficiente.
+- Colaboração estreita com a equipe de suporte para resolver questões de forma eficiente.
+- Contribuição direta para aumentar a satisfação dos usuários.• Elevação da experiência do usuário através de melhorias contínuas no sistema.
+- Sugestão de novas implementações e melhorias para o sistema.
 <br>
 **Data de início:** 05/2024 | **Data de término:** 08/2024
 
@@ -73,15 +73,15 @@ GitHub
 **Empresa:** DropMaxi Distribuidora <br>
 **Localidade:** Centro comercial em São Paulo <br>
 **Resumo:** 
-    • Desenvolvimento completo do sistema da empresa utilizando PHP puro, sem frameworks.
-    • Integração com Shopee, Shopify, Mercado Livre, Mercado Pago, Yampi, Asaas e API do
+- Desenvolvimento completo do sistema da empresa utilizando PHP puro, sem frameworks.
+- Integração com Shopee, Shopify, Mercado Livre, Mercado Pago, Yampi, Asaas e API do
     WhatsApp.
-    • Implementação de novas funcionalidades e correção de bugs para assegurar a estabilidade do
+- Implementação de novas funcionalidades e correção de bugs para assegurar a estabilidade do
     sistema.
-    •Colaboração com a equipe de suporte para resolver questões de forma eficiente.
-    •Melhoria da performance e elevação da experiência do usuário.
-    •Contribuição direta para aumentar a satisfação dos usuários.
-    •Criação de toda a estrutura do banco de dados e aplicação de melhorias contínuas e tunning.
+- Colaboração com a equipe de suporte para resolver questões de forma eficiente.
+- Melhoria da performance e elevação da experiência do usuário.
+- Contribuição direta para aumentar a satisfação dos usuários.
+- Criação de toda a estrutura do banco de dados e aplicação de melhorias contínuas e tunning.
 <br>
 **Data de início:** 01/2020 | **Data de término:** 06/2024 
 
