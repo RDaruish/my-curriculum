@@ -51,7 +51,7 @@ incidentes.
 - Consultas complexas em MongoDB.
 - Analise para a resolução de erros em ambientes produtivos.
 - Geração de relatórios detalhados diretamente na base de dados PL/SQL.
-<br>
+  
 **Data de início:** 02/2022 | **Data de término:** 08/2024 
 
 ## 
@@ -64,7 +64,7 @@ incidentes.
 - Colaboração estreita com a equipe de suporte para resolver questões de forma eficiente.
 - Contribuição direta para aumentar a satisfação dos usuários.• Elevação da experiência do usuário através de melhorias contínuas no sistema.
 - Sugestão de novas implementações e melhorias para o sistema.
-<br>
+  
 **Data de início:** 05/2024 | **Data de término:** 08/2024
 
 
@@ -82,11 +82,10 @@ incidentes.
 - Melhoria da performance e elevação da experiência do usuário.
 - Contribuição direta para aumentar a satisfação dos usuários.
 - Criação de toda a estrutura do banco de dados e aplicação de melhorias contínuas e tunning.
-<br>
+  
 **Data de início:** 01/2020 | **Data de término:** 06/2024 
 
 <br>
-
 
 ## Formação acadêmica 
 **Universidade:** Centro Universitário – UNIFATECIE <br>
@@ -101,14 +100,14 @@ incidentes.
 **Cidade** São José do Rio Preto <br>
 
 ## Habilidades Técnicas
-**Gerais:** Lógica de Programação, Código Limpo, Inglês intermediário.
-**Sistemas Operacionais:** Linux e Windows.
-**Front-End:** HTML, CSS.
-**Frameworks Back-end:** Laravel.
-**UI Kits:** Materialize, Bootstrap.
-**Linguagens de Programação:** PHP, JavaScript, JQuery, C#, Java, Python, Ruby.
-**Banco de Dados:** PL/SQL Oracle, MongoDB, MySql, SqlServer
-**Controle de Versão:** Git/GitHub
+**Gerais:** Lógica de Programação, Código Limpo, Inglês intermediário. <br>
+**Sistemas Operacionais:** Linux e Windows. <br>
+**Front-End:** HTML, CSS. <br>
+**Frameworks Back-end:** Laravel. <br>
+**UI Kits:** Materialize, Bootstrap. <br>
+**Linguagens de Programação:** PHP, JavaScript, JQuery, C#, Java, Python, Ruby. <br>
+**Banco de Dados:** PL/SQL Oracle, MongoDB, MySql, SqlServer <br>
+**Controle de Versão:** Git/GitHub <br>
 
 <br>
 
